@@ -1,3 +1,4 @@
+package Basics;
 class Person{
     public void display(){
         System.out.println("This is class Person");

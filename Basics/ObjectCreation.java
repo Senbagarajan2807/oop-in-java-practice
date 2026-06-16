@@ -1,3 +1,4 @@
+package Basics;
 class ObjectCreation{
     int objId;
     String objName;
