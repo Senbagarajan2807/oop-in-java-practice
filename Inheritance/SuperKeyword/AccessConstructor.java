@@ -10,7 +10,7 @@ public class AccessConstructor {
 class Child extends AccessConstructor{
     
     public Child(){
-        super();  //used to inherit the properties of parent class constructor
+        super(); 
         System.out.println("This is child class constructor");
     }
     
